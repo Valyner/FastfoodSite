@@ -4,4 +4,4 @@
 
 <h2>GIF</h2>
 
-![](proje_gif)
+![](proje_gif.gif)
